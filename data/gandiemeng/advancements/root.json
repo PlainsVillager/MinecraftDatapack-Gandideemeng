@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "title": "熊孩子",
+    "description": "放置TNT",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background":"minecraft:textures/gui/advancements/background/stone.png"
+  },
+  "criteria": {
+    "tnt": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:tnt"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tnt"
+    ]
+  ]
+}
