@@ -1,0 +1,2 @@
+tellraw @s {"text": "肝帝的噩梦数据包v1.2.1-snapshot.1加载成功!","color": "#FF0000"}
+tellraw @s {"text":"反馈bug：点我","clickEvent": {action:"open_url","value": "https://github.com/PlainsVillager/MinecraftDatapack-Gandideemeng/issues"}}
