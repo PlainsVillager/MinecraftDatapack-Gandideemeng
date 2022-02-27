@@ -1,0 +1,9 @@
+{
+    "type": "smoking",
+    "ingredient": {
+        "item": "minecraft:apple"
+    },
+    "result": "minecraft:golden_apple",
+    "experience": 0.95,
+    "cookingtime": 125
+}
